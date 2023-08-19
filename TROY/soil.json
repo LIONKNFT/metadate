@@ -2,4 +2,10 @@
     "name": "TROY-soil",
     "description": "We commit to building the most transparent Lion King community on the entire network with the strongest consensus!Copyright fee receipt and payment address: 0x3e7dfb3dfb7d3848e245da0bc244bf246ad61151   Twitter: LionKing2399   Telegram: @ lionkignft   Email: lionking2399@yeah.net",
     "image": "https://lionknft.github.io/jpg/TROY/soil.jpg"
+      ,"attributes":[
+      {
+        "trait_type": "FiveElement",
+        "value": "Soil"
+      }
+    ]
   }
